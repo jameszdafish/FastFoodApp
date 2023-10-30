@@ -1,5 +1,5 @@
 # FastFoodApp
-Bare bones app based around McDonald's. 
+Bare bones app based around McDonald's. (how prices should be)
 
 # Features include:
     • Creating a cart / adding menu items to cart.
